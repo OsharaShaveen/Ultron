@@ -94,7 +94,7 @@ Further, take a look at the [`docs`](https://blue-devil1134.github.io/UltroidCli
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/OsharaShaveen/Ulron)
+* [![Run on Repl.it](https://replit.com/badge/github/OsharaShaveen/Ultron)
 * Linux : `bash -c "$(curl -fsSL https://git.io/JY9JI)"`
 * PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
 * Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
